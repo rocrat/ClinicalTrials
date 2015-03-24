@@ -1,0 +1,49 @@
+GROUP$ PATIENT$ PERIOD$ TREAT$ PEF BASE;
+  forsal  1  1 for 310  290
+  forsal  4  1 for 310  300
+  forsal  6  1 for 370  250
+  forsal  7  1 for 410  390
+  forsal 10  1 for 250  250
+  forsal 11  1 for 380  365
+  forsal 14  1 for 330  190
+  salfor  2  1 sal 370  350
+  salfor  3  1 sal 310  350
+  salfor  5  1 sal 380  350
+  salfor  9  1 sal 290  280
+  salfor 12  1 sal 260  270
+  salfor 13  1 sal  90  220
+  forsal  1  2 sal 270  270
+  forsal  4  2 sal 260  270
+  forsal  6  2 sal 300  210
+  forsal  7  2 sal 390  390
+  forsal 10  2 sal 210  240
+  forsal 11  2 sal 350  380
+  forsal 14  2 sal 365  260
+  salfor  2  2 for 385  345
+  salfor  3  2 for 400  370
+  salfor  5  2 for 410  360
+  salfor  9  2 for 320  290
+  salfor 12  2 for 340  310
+  salfor 13  2 for 220  220
+
+
+
+#The data in Table 3.1 are taken from those which were reported in
+#Senn and Auclair (1990, p. 1290). They are measurements of peak expiratory
+#flow (PEF), a measure of lung function (National Asthma Education Program,
+#1991, pp. 6–9), made on 13 children aged 7 to 14 with moderate or severe
+#asthma in a two-treatment two-period cross-over comparing the effects of a
+#single inhaled dose of 200 g salbutamol, a well-established bronchodilator,
+#and 12 g formoterol, a more recently developed bronchodilator (Faulds
+#et al.,1991). The children were randomized to one of two sequence groups. In one
+#group they were given a dose of formoterol in the morning and observed for 8 h in
+#the clinic. They then travelled home where they or their parents took further
+#measurements 10, 11 and 12 h after treatment. (PEF is a measurement which
+#patients may record themselves using a simple device.) On a subsequent occasion
+#after a wash-out of at least one day they presented at the clinic again and were
+#given a single dose of salbutamol. Measurements in the clinic followed as before
+#and were again succeeded by measurements at home. For the second sequence
+#group, the procedure was as for the first except that they received salbutamol on
+#the first visit to the clinic and formoterol on the second visit to the clinic.
+
+
