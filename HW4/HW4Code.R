@@ -75,4 +75,6 @@ careN$N2<-ceiling(careN$N2*d.eff)
 careN[2:3]
 
 #Question 8
-
+#using the formula for a 95% confidence interval on a proportion and the fact that the variance is maximized at p=.5 we get:
+PilotN<-ceiling((.5*.5)/(.1/1.96)^2)
+PilotN
